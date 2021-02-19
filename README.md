@@ -1,2 +1,2 @@
-# RSA-Encryption-Decryption-C-language..
+# RSA-Encryption-Decryption-C
 
