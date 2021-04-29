@@ -1,2 +1,2 @@
-# RSA-Encryption-Decryption-C..
+# RSA-Encryption-Decryption-C
 
